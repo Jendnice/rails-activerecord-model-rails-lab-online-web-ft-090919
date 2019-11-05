@@ -1,4 +1,4 @@
-class Student < ACtiveRecord::Base 
+class Student < ActiveRecord::Base 
   
   
   
